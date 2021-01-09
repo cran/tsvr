@@ -1,5 +1,5 @@
 Package: tsvr
-Version: 1.0.1
+Version: 1.0.2
 Type: Package
 Title: Timescale-Specific Variance Ratio for Use in Community Ecology
 Authors@R: c(
@@ -13,13 +13,13 @@ Encoding: UTF-8
 LazyData: true
 Imports: graphics (>= 3.4.4), grDevices (>= 3.4.4), stats (>= 3.4.4)
 Suggests: knitr, rmarkdown, testthat, vdiffr
-VignetteBuilder: knitr
-RoxygenNote: 6.0.1
+VignetteBuilder: knitr, rmarkdown
+RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2019-09-26 14:47:02 UTC; dreuman
+Packaged: 2021-01-08 15:02:36 UTC; dreuman
 Author: Daniel C. Reuman [aut, cre],
   Lei Zhao [aut],
   Shaopeng Wang [aut]
 Maintainer: Daniel C. Reuman <reuman@ku.edu>
 Repository: CRAN
-Date/Publication: 2019-09-27 04:30:03 UTC
+Date/Publication: 2021-01-09 02:30:05 UTC

@@ -1,4 +1,4 @@
-2800db5c4e25df0463a7e1be7a9465fb *DESCRIPTION
+0b0d65da216f7f52a8f823867d09a562 *DESCRIPTION
 7d4f820d244470ded7f15a014b45519d *NAMESPACE
 2b7e5a2caad2e3d4414e217b48ede36d *R/JRGdata.R
 2159cc1b00b8e5fd79162ff4233eed6b *R/aggts.R
@@ -26,10 +26,10 @@ c9a203b413bdfc90fdb2354d5b9f984e *R/vrf.R
 94ae61dd0d7860c9aae1583ffb028d39 *README.md
 8c6cabf4582a5049165b2efb65bc9e0c *build/vignette.rds
 c42780649ac050399ab923fd763b0feb *data/JRGData.RData
-28ecd80644b7603c2c16421bbac43e48 *inst/doc/tsvrvignette.R
+242f356e0687ab2b1d69922b98391fa6 *inst/doc/tsvrvignette.R
 075e31f15571159a684761dcf35ea856 *inst/doc/tsvrvignette.Rmd
-e296b63374454619339f23277aead9b5 *inst/doc/tsvrvignette.pdf
-348765b15195c7c074f96605edd4edd0 *man/JRGdat.Rd
+df6eaf1a681421b543c1178eba07650e *inst/doc/tsvrvignette.pdf
+c70ccc2feaccae5964c32ee1b3c5144f *man/JRGdat.Rd
 f17646f621046560bd0708e3b78cd605 *man/aggts.Rd
 1fde05f5eaead82f0e580f094d30eedc *man/cospect.Rd
 871af25a691015feb7bbf1686446983d *man/cv2.Rd
@@ -57,6 +57,7 @@ aa252ab28a93eef0cb57245edaac39c0 *man/wts.Rd
 ffc7f2bd8b20eeda3b18043dc5c6e01d *tests/figs/tsvreq-classic-methods/test-plot-tsvreq-classic.svg
 6dada0fdb985be478957995c930be353 *tests/figs/tsvreq-methods/test-plot-tsvreq.svg
 fe1065b42490a1a2a5bd931af607a0a3 *tests/testthat.R
+b68363f8f119cbfc3666d0c4f1d214e5 *tests/testthat/helper-utils.R
 308c597af5c14b2b08b3626a0f254a2d *tests/testthat/tests_aggts.R
 04595fb3d1440c0a655d55a51451bc5e *tests/testthat/tests_cospect.R
 deb97b5155ed8f0fd6cc9bbf9077d561 *tests/testthat/tests_cv2.R
@@ -67,8 +68,8 @@ f096f29397fa6e47264920fb83bec111 *tests/testthat/tests_errcheck_vreq.R
 e5536a0cb5fe8eb01858ef4beafb2e4c *tests/testthat/tests_print.summary_tsvr.R
 a4989e30dc18175f50ca7262700f2f78 *tests/testthat/tests_tsvreq.R
 76941912c3840bcf69d267e6e7b4ebeb *tests/testthat/tests_tsvreq_classic.R
-eb1dc4dd30e021631f05ef865085eb04 *tests/testthat/tests_tsvreq_classic_methods.R
-e4a898eac6a2309c4fabbff059261bcf *tests/testthat/tests_tsvreq_methods.R
+f709c8e8099af9ceb42393bcea71377b *tests/testthat/tests_tsvreq_classic_methods.R
+24a00ea8961b45591c4297431e8a5458 *tests/testthat/tests_tsvreq_methods.R
 80b22a405e01642b835cb258e1523c14 *tests/testthat/tests_vr.R
 e6204762d6dfa8cc192beb10bb46321a *tests/testthat/tests_vreq.R
 aa13658e711d0fa84f77dccaf9d849e8 *tests/testthat/tests_vreq_LdM.R
